@@ -2,8 +2,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorYuan666.visitor-badge)
 ### Hi there 👋
 
-my name is victoryuan a front-end developer
-my tech stack is react/react-native/vue/less...
+---
 
 ### 技术栈
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
