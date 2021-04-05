@@ -23,7 +23,7 @@ my tech stack is react/react-native/vue/less...
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=VictorYuan666&show_icons=true&locale=cn&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=VictorYuan666)
+![](https://github-readme-stats.vercel.app/api?username=VictorYuan666&show_icons=true&locale=cn)
 
 
 
