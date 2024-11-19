@@ -1,5 +1,4 @@
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=VictorYuan666.visitor-badge)
 ### Hi there 👋
 
 ---
@@ -19,7 +18,7 @@
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- [我的博客](https://yuanxiaowei.top) 
+- [Blog](https://xiaowei.fun) 
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=VictorYuan666&show_icons=true&locale=cn&layout=compact)
